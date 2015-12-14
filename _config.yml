@@ -1,6 +1,6 @@
 name: afntest
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.49345
 title: AFN Test
 cta:
@@ -24,6 +24,6 @@ color:
     - '#8c6754'
   brandStrength: 0.5
   lightness: 1
-  saturation: 1
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
