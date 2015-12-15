@@ -4,8 +4,15 @@
         <description><![CDATA[AFN Test]]></description>
         <link>https://thegrid.ai/afntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 01:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 01:50:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afntest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Savanna ]]></title>
+            <description><![CDATA[<article><h1>Savanna </h1><p>Savanna Photography - Test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdce519e8ffb122970e2c97862b716621869d2e7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/afntest/savanna/index.html</link>
+            <guid isPermaLink="false">90a9e194-c86a-48ab-aa32-92d6ccbbec9b</guid>
+            <pubDate>Tue, 15 Dec 2015 01:50:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Skateboard Photo]]></title>
             <description><![CDATA[<article><h1>Skateboard Photo</h1><p>Skateboarding Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4fe4662dc07f376ca35a0cc380e2ecd4a4e86c5.jpg"></article>]]></description>
