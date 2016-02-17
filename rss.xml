@@ -4,11 +4,18 @@
         <description><![CDATA[AFN Test]]></description>
         <link>https://thegrid.ai/afntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 01:01:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 01:21:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afntest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Skateboard Photo]]></title>
+            <description><![CDATA[<article><h1>Skateboard Photo</h1><p>Skateboarding Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4fe4662dc07f376ca35a0cc380e2ecd4a4e86c5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/afntest/skateboard-photo/index.html</link>
+            <guid isPermaLink="false">ee32059d-928f-48e8-9a12-ee46e9b04db0</guid>
+            <pubDate>Wed, 17 Feb 2016 01:20:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Connections]]></title>
-            <description><![CDATA[<article><h1>Connections</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81398423acb8106f8d76f98f2c0adddd540d6172.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Connections</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e951ace03151d5b8cd0290cba7f183e8830a8dc6.jpg"></article>]]></description>
             <link>https://thegrid.ai/afntest/connections/index.html</link>
             <guid isPermaLink="false">ad683409-20f3-4c2e-a9f0-9b4ef11f0ed6</guid>
             <pubDate>Wed, 16 Dec 2015 01:01:49 GMT</pubDate>
@@ -28,15 +35,8 @@
             <pubDate>Tue, 15 Dec 2015 01:50:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Skateboard Photo]]></title>
-            <description><![CDATA[<article><h1>Skateboard Photo</h1><p>Skateboarding Photography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4fe4662dc07f376ca35a0cc380e2ecd4a4e86c5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/afntest/skateboard-photo/index.html</link>
-            <guid isPermaLink="false">ee32059d-928f-48e8-9a12-ee46e9b04db0</guid>
-            <pubDate>Tue, 15 Dec 2015 01:36:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[6 Things I Do for a Happy + Productive Day | ChaseJarvis RAW Episode 07]]></title>
-            <description><![CDATA[<article><h1>6 Things I Do for a Happy + Productive Day | ChaseJarvis RAW Episode 07</h1><p>The seemingly always-energized Chase Jarvis shares his short list of 6 things he uses to start (almost) everyday full of clarity, productivity, and joy. MORE from this episode on the blog ⟶ http://cr8.lv/1jD3B5u =========================== SUBSCRIBE: http://bit.ly/16MHmg0 =========================== =========================== CreativeLive Pick of the Week [8:03] =========================== The 4-Hr Life: Healthy, Wealthy, and Wise ⟶ http://cr8.lv/1NRVaQx Tim Ferris presents his best lessons, principles, and hacks for becoming (and remaining) 'healthy, wealthy, and wise.'</p></article>]]></description>
+            <description><![CDATA[<article><h1>6 Things I Do for a Happy + Productive Day | ChaseJarvis RAW Episode 07</h1><p>The seemingly always-energized Chase Jarvis shares his short list of 6 things he uses to start (almost) everyday full of clarity, productivity, and joy. MORE from this episode on the blog ⟶ http://cr8.lv/1jD3B5u =========================== SUBSCRIBE: http://bit.ly/16MHmg0 =========================== =========================== CreativeLive Pick of the Week [8:03] =========================== The 4-Hr Life: Healthy, Wealthy, and Wise ⟶ http://cr8.lv/1NRVaQx Tim Ferris presents his best lessons, principles, and hacks for becoming (and remaining) 'healthy, wealthy, and wise.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/382a2a3178bea5ddb578690af3f0d181cc3cc652.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=SuYdlHsWm-c</link>
             <guid isPermaLink="false">3a890a71-c754-4f40-b980-7546d4c35280</guid>
             <pubDate>Tue, 15 Dec 2015 01:32:42 GMT</pubDate>
@@ -57,7 +57,7 @@
         </item>
         <item>
             <title><![CDATA[My Photos]]></title>
-            <description><![CDATA[<article><h1>My Photos</h1><p>My photos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be4412fa7d3f2bc21bdf1f0414f26fb1a0d97d9e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>My Photos</h1><p>My photos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12cafc3b38bfbf4f685960ee879c4ab19f2aec44.jpg"></article>]]></description>
             <link>https://thegrid.ai/afntest/my-photos/index.html</link>
             <guid isPermaLink="false">816d7eab-b79b-4e11-bafa-90f072a5ebf0</guid>
             <pubDate>Mon, 14 Dec 2015 22:35:35 GMT</pubDate>
