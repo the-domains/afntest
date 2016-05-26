@@ -1,20 +1,8 @@
-title: AFN Test
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0
-favicon: null
 name: afntest
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.6574468
+title: AFN Test
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5
-  saturation: 0
   brandColors:
     - '#0e252b'
     - '#c7b6a2'
     - '#c3a17c'
     - '#4c4744'
     - '#8c6754'
+  brandStrength: 0.5
   lightness: 0
+  saturation: 0
   rhythmicContrast: 0
-typography_spectrum: 0.6574468
+purpose: []
