@@ -4,14 +4,21 @@
         <description><![CDATA[AFN Test]]></description>
         <link>https://thegrid.ai/afntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 01:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 16:30:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afntest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Skateboard Photo]]></title>
-            <description><![CDATA[<article><h1>Skateboard Photo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8eaccdc1518a122b042aaa8ffd2f9919dfc697b.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7bc2c257824f9a5d7aad7207ed04fda38f62a84.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/afntest/skateboard-photo/index.html</link>
             <guid isPermaLink="false">ee32059d-928f-48e8-9a12-ee46e9b04db0</guid>
             <pubDate>Wed, 17 Feb 2016 01:24:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum]]></title>
+            <description><![CDATA[<article><h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</h1><p>Savanna Wormsloe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdce519e8ffb122970e2c97862b716621869d2e7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/afntest/savanna/index.html</link>
+            <guid isPermaLink="false">90a9e194-c86a-48ab-aa32-92d6ccbbec9b</guid>
+            <pubDate>Thu, 02 Jun 2016 16:30:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Connections]]></title>
@@ -22,17 +29,10 @@
         </item>
         <item>
             <title><![CDATA[Lorem Test]]></title>
-            <description><![CDATA[<article><h1>Lorem Test</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3dc5902dffd5e625cae9659eb574842cf6bb0f65.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f5ee7cb-d7b2-492e-912d-6acba462377e.jpg" alt="" title="">]]></description>
             <link>https://thegrid.ai/afntest/lorem-test/index.html</link>
             <guid isPermaLink="false">f03e4c34-4dae-4e1c-bfa7-3e56f4a1199b</guid>
             <pubDate>Tue, 15 Dec 2015 04:08:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Savanna ]]></title>
-            <description><![CDATA[<article><h1>Savanna </h1><p>Savanna Photography - Test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e25de3bb002cfbc5871b418664545edf98ecdb82.jpg"></article>]]></description>
-            <link>https://thegrid.ai/afntest/savanna/index.html</link>
-            <guid isPermaLink="false">90a9e194-c86a-48ab-aa32-92d6ccbbec9b</guid>
-            <pubDate>Tue, 15 Dec 2015 01:50:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[6 Things I Do for a Happy + Productive Day | ChaseJarvis RAW Episode 07]]></title>
@@ -49,18 +49,18 @@
             <pubDate>Mon, 14 Dec 2015 23:01:20 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My Photos]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cc61b615fee1cdebba5bfb56ccdd8c8490455ba.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/afntest/my-photos/index.html</link>
+            <guid isPermaLink="false">816d7eab-b79b-4e11-bafa-90f072a5ebf0</guid>
+            <pubDate>Mon, 14 Dec 2015 22:35:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA['Studio' Wildlife Portraits Captured with Camera Traps and Flashes]]></title>
             <description><![CDATA[<article><h1>'Studio' Wildlife Portraits Captured with Camera Traps and Flashes</h1><p>Photographer Jonny Armstrong 's portfolio is filled with some of the most remarkable wildlife photos you'll ever see: many of the portraits have a studio-like quality to them, and they're often taken from just a few feet away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83b3b526cf02cb9c0012d2fbcb77df1f0107f927.jpg"></article>]]></description>
             <link>http://petapixel.com/2015/12/11/studio-wildlife-portraits-captured-with-camera-traps-and-flashes/</link>
             <guid isPermaLink="false">4de56067-da20-42cf-8460-691c7dddd4f3</guid>
             <pubDate>Mon, 14 Dec 2015 21:32:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Photos]]></title>
-            <description><![CDATA[<article><h1>My Photos</h1><p>My photos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12cafc3b38bfbf4f685960ee879c4ab19f2aec44.jpg"></article>]]></description>
-            <link>https://thegrid.ai/afntest/my-photos/index.html</link>
-            <guid isPermaLink="false">816d7eab-b79b-4e11-bafa-90f072a5ebf0</guid>
-            <pubDate>Mon, 14 Dec 2015 22:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
