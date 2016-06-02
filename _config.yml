@@ -1,7 +1,7 @@
 name: afntest
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6574468
+layout_spectrum: 0.6811232415493578
+typography_spectrum: 0.7554089236073196
 title: AFN Test
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0e252b'
-    - '#c7b6a2'
-    - '#c3a17c'
-    - '#4c4744'
-    - '#8c6754'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 0
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.07843391667120159
+  lightness: 0.30390472314320505
+  saturation: 0.23117170808836818
+  rhythmicContrast: 0.090507831890136
 purpose: []
