@@ -29,6 +29,10 @@ navigation:
     url: 2015-12-14-image.html
     name: Image
     type: content
+  - id: ad683409-20f3-4c2e-a9f0-9b4ef11f0ed6
+    url: 2015-12-15-connections.html
+    name: Connections
+    type: content
 favicon: null
 collections:
   - index:
