@@ -33,6 +33,10 @@ navigation:
     url: 2015-12-15-connections.html
     name: Connections
     type: content
+  - id: 5a7298cd-7d04-477f-a2f5-dbf158a4d3c9
+    url: 2015-12-16-about.html
+    name: ABOUT PAGE
+    type: content
 favicon: null
 collections:
   - index:
