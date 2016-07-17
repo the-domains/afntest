@@ -4,7 +4,7 @@
         <description><![CDATA[AFN Test]]></description>
         <link>https://thegrid.ai/afntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 16:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 18:42:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afntest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/afntest/savanna/index.html</link>
             <guid isPermaLink="false">90a9e194-c86a-48ab-aa32-92d6ccbbec9b</guid>
             <pubDate>Thu, 02 Jun 2016 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Image]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7e8be3-dec4-42b1-813c-f022b9d2f747.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/afntest/image/index.html</link>
+            <guid isPermaLink="false">a2d2a5a1-1224-4ea4-ac13-1771777473df</guid>
+            <pubDate>Sun, 17 Jul 2016 18:42:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Skateboard Photo]]></title>
