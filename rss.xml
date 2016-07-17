@@ -4,7 +4,7 @@
         <description><![CDATA[AFN Test]]></description>
         <link>https://thegrid.ai/afntest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 18:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 18:43:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/afntest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test ]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/afntest/savanna/index.html</link>
             <guid isPermaLink="false">90a9e194-c86a-48ab-aa32-92d6ccbbec9b</guid>
             <pubDate>Thu, 02 Jun 2016 16:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Connections]]></title>
+            <description><![CDATA[<article><h1>Connections</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e951ace03151d5b8cd0290cba7f183e8830a8dc6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/afntest/connections/index.html</link>
+            <guid isPermaLink="false">ad683409-20f3-4c2e-a9f0-9b4ef11f0ed6</guid>
+            <pubDate>Sun, 17 Jul 2016 18:42:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Image]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/afntest/skateboard-photo/index.html</link>
             <guid isPermaLink="false">ee32059d-928f-48e8-9a12-ee46e9b04db0</guid>
             <pubDate>Thu, 02 Jun 2016 16:30:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connections]]></title>
-            <description><![CDATA[<article><h1>Connections</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e951ace03151d5b8cd0290cba7f183e8830a8dc6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/afntest/connections/index.html</link>
-            <guid isPermaLink="false">ad683409-20f3-4c2e-a9f0-9b4ef11f0ed6</guid>
-            <pubDate>Wed, 16 Dec 2015 01:01:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lorem Test]]></title>
