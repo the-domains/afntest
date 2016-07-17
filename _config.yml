@@ -1,8 +1,35 @@
-name: afntest
-favicon: null
-layout_spectrum: 0.7963216344360262
 typography_spectrum: 0.6233503613620996
-title: AFN Test
+color:
+  brandColors:
+    - '#405952'
+    - '#9C9B7A'
+    - '#FFD393'
+    - '#FF974F'
+    - '#F54F29'
+  brandStrength: 0.07843391667120159
+  lightness: 0.30390472314320505
+  saturation: 0.23117170808836818
+  rhythmicContrast: 0.090507831890136
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7963216344360262
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: afntest
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: a2d2a5a1-1224-4ea4-ac13-1771777473df
+    url: 2015-12-14-image.html
+    name: Image
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -15,27 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
-  brandStrength: 0.07843391667120159
-  lightness: 0.30390472314320505
-  saturation: 0.23117170808836818
-  rhythmicContrast: 0.090507831890136
+title: AFN Test
 purpose: []
