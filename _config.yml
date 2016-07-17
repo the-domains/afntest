@@ -33,6 +33,10 @@ navigation:
     url: 2015-12-14-getting-started-on-the-grid.html
     name: Getting Started on The Grid
     type: content
+  - id: 816d7eab-b79b-4e11-bafa-90f072a5ebf0
+    url: 2015-12-14-my-photos.html
+    name: My Photos
+    type: content
 favicon: null
 collections:
   - index:
