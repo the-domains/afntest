@@ -29,6 +29,10 @@ navigation:
     url: 2015-12-16-about.html
     name: ABOUT PAGE
     type: content
+  - id: 044222f6-5539-4263-9a39-277a9e63ca11
+    url: 2015-12-14-getting-started-on-the-grid.html
+    name: Getting Started on The Grid
+    type: content
 favicon: null
 collections:
   - index:
