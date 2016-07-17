@@ -25,10 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: ad683409-20f3-4c2e-a9f0-9b4ef11f0ed6
-    url: 2015-12-15-connections.html
-    name: Connections
-    type: content
   - id: 5a7298cd-7d04-477f-a2f5-dbf158a4d3c9
     url: 2015-12-16-about.html
     name: ABOUT PAGE
