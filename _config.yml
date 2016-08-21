@@ -1,20 +1,20 @@
-typography_spectrum: 0.6233503613620996
+layout_spectrum: 0.21244140877388418
+typography_spectrum: 0.17944220453500748
 color:
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
-  brandStrength: 0.07843391667120159
-  lightness: 0.30390472314320505
-  saturation: 0.23117170808836818
-  rhythmicContrast: 0.090507831890136
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.14710036013275385
+  lightness: 0.16729030734859407
+  saturation: 0.13681170530617237
+  rhythmicContrast: 0.7357857474125922
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7963216344360262
 analytics:
   google: null
   facebook: null
@@ -26,15 +26,12 @@ cta:
   version: null
 navigation:
   - id: 5a7298cd-7d04-477f-a2f5-dbf158a4d3c9
-    url: 2015-12-16-about.html
     name: ABOUT PAGE
     type: content
   - id: 044222f6-5539-4263-9a39-277a9e63ca11
-    url: 2015-12-14-getting-started-on-the-grid.html
     name: Getting Started on The Grid
     type: content
   - id: 816d7eab-b79b-4e11-bafa-90f072a5ebf0
-    url: 2015-12-14-my-photos.html
     name: My Photos
     type: content
 favicon: null
